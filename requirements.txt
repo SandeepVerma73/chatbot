@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+unstructured
+chromadb
+openai
+pydantic
